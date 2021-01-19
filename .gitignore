@@ -1,4 +1,9 @@
 .htaccess
+.vs
+MaerskSku/bin
+MaerskSku/obj
+MaerskSkuTest/bin
+MaerskSkuTest/obj
 css.php
 rpc/
 sites/site*/admin/
